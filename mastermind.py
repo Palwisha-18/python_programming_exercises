@@ -20,12 +20,12 @@ def guess_code():
     while tries < 10:
         guessed_code = input("Guess 4-digit code: ")
         guessed_code = [int(d) for d in guessed_code]
-        tries += 1
 
         if len(guessed_code) != 4:
             print("You need to enter 4-digit code.")
             continue
 
+        tries += 1
         if code == guessed_code:
             print("RRRR")
             print("You guessed the code!")
