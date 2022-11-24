@@ -41,7 +41,9 @@ def most_common_chars(input: str):
 
 if __name__ == "__main__":
     most_common_chars("aaabbbbccde")
+    print()
     most_common_chars("cccbbbbaaade")
-
+    print()
     most_common_chars_with_counter("aaabbbbccde")
+    print()
     most_common_chars_with_counter("cccbbbbaaade")
