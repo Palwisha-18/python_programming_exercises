@@ -7,8 +7,14 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 
 
 def max_profit_brute_force(arr: list) -> int:
-    pass
+    max_profit = 0
+    for i in range(0, len(arr) - 1):
+        for j in range(i + 1, len(arr)):
+            if arr[j] - arr[i] > max_profit:
+                max_profit = arr[j] - arr[i]
+    return max_profit
 
 
 if __name__ == "__main__":
     assert max_profit_brute_force([7, 1, 5, 3, 6, 4]) == 5
+    assert max_profit_brute_force([7, 6, 4, 3, 1]) == 0
