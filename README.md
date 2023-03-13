@@ -1,4 +1,4 @@
-# Python Programming Exercies
+# Python Programming Exercises
 
 This repository consists of coding problems with solutions implemented in Python language.
 
