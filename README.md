@@ -19,3 +19,7 @@ This repository consists of coding problems with solutions implemented in Python
 - Two Sum
 
 *Hard Problems*:
+- Bubble Sort
+- Quick Sort
+- Insertion Sort
+- Merge Sort
