@@ -9,6 +9,7 @@ This repository consists of coding problems with solutions implemented in Python
 - Multiples of Three and Five
 - Reverse Array
 - k most frequent elements
+- Is Palindrome
 
 *Medium Problems*:
 - Best Time to Buy and Sell Stocks
