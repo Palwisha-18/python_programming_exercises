@@ -18,7 +18,8 @@ This repository consists of coding problems with solutions implemented in Python
 - Mastermind
 - Push zeros to end of array
 - Two Sum
--  Find First and Last Position of Element in Sorted Array
+- Find First and Last Position of Element in Sorted Array
+- Find Common Chars
 
 *Hard Problems*:
 - Bubble Sort
