@@ -10,6 +10,7 @@ This repository consists of coding problems with solutions implemented in Python
 - Reverse Array
 - k most frequent elements
 - Is Palindrome
+- Fibonnaci Sequence
 
 *Medium Problems*:
 - Best Time to Buy and Sell Stocks
