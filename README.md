@@ -21,6 +21,7 @@ This repository consists of coding problems with solutions implemented in Python
 - Two Sum
 - Find First and Last Position of Element in Sorted Array
 - Find Common Chars
+- Sort Colors
 
 *Hard Problems*:
 - Bubble Sort
