@@ -5,6 +5,7 @@ This repository consists of coding problems with solutions implemented in Python
 *Easy Problems*:
 - Repeat String N times
 - Is Isogram
+- Is Pangram
 - Is Prime Number
 - Multiples of Three and Five
 - Reverse Array
